@@ -1,0 +1,23 @@
+# Entorno
+.env
+.env.local
+
+# Node
+node_modules/
+dist/
+.vite/
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+test.db
+*.db
+
+# Editor / SO
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/settings.json
